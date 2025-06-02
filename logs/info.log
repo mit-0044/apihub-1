@@ -1,0 +1,78 @@
+[07 Jan, 2025 - 01:07:55:755] [31merror[39m: [31mMongoDB connection error:  getaddrinfo ENOTFOUND mongodb[39m
+[07 Jan, 2025 - 01:22:13:2213] [31merror[39m: [31mMongoDB connection error:  getaddrinfo ENOTFOUND mongodb[39m
+[07 Jan, 2025 - 01:23:05:235] [31merror[39m: [31mMongoDB connection error:  getaddrinfo ENOTFOUND mongodb[39m
+[07 Jan, 2025 - 01:24:14:2414] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[07 Jan, 2025 - 01:24:57:2457] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[07 Jan, 2025 - 01:25:19:2519] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[07 Jan, 2025 - 01:25:36:2536] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[07 Jan, 2025 - 01:25:36:2536] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8082[39m
+[07 Jan, 2025 - 01:25:36:2536] [34minfo[39m: [34m⚙️  Server is running on port: 8082[39m
+[07 Jan, 2025 - 01:26:45:2645] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[07 Jan, 2025 - 01:26:45:2645] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8082[39m
+[07 Jan, 2025 - 01:26:45:2645] [34minfo[39m: [34m⚙️  Server is running on port: 8082[39m
+[07 Jan, 2025 - 01:27:03:273] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[07 Jan, 2025 - 01:27:33:2733] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[07 Jan, 2025 - 01:27:33:2733] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8082[39m
+[07 Jan, 2025 - 01:27:33:2733] [34minfo[39m: [34m⚙️  Server is running on port: 8082[39m
+[07 Jan, 2025 - 01:29:48:2948] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[07 Jan, 2025 - 01:32:21:3221] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[07 Jan, 2025 - 01:32:21:3221] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8082[39m
+[07 Jan, 2025 - 01:32:21:3221] [34minfo[39m: [34m⚙️  Server is running on port: 8082[39m
+[07 Jan, 2025 - 01:34:16:3416] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[07 Jan, 2025 - 01:34:16:3416] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8082[39m
+[07 Jan, 2025 - 01:34:16:3416] [34minfo[39m: [34m⚙️  Server is running on port: 8082[39m
+[07 Jan, 2025 - 01:34:31:3431] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[07 Jan, 2025 - 01:34:31:3431] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8082[39m
+[07 Jan, 2025 - 01:34:31:3431] [34minfo[39m: [34m⚙️  Server is running on port: 8082[39m
+[07 Jan, 2025 - 01:35:12:3512] [31merror[39m: [31mEmail service failed silently. Make sure you have provided your MAILTRAP credentials in the .env file[39m
+[07 Jan, 2025 - 01:35:12:3512] [31merror[39m: [31mError:  getaddrinfo ENOTFOUND __mailtrap_smtp_host__[39m
+[07 Jan, 2025 - 01:36:30:3630] [31merror[39m: [31mEmail service failed silently. Make sure you have provided your MAILTRAP credentials in the .env file[39m
+[07 Jan, 2025 - 01:36:30:3630] [31merror[39m: [31mError:  getaddrinfo ENOTFOUND __mailtrap_smtp_host__[39m
+[01 Jun, 2025 - 16:26:24:2624] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[01 Jun, 2025 - 16:26:24:2624] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8082[39m
+[01 Jun, 2025 - 16:26:24:2624] [34minfo[39m: [34m⚙️  Server is running on port: 8082[39m
+[01 Jun, 2025 - 16:26:27:2627] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 16:26:27:2627] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 16:26:27:2627] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 16:26:27:2627] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 16:27:21:2721] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[01 Jun, 2025 - 16:27:21:2721] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8082[39m
+[01 Jun, 2025 - 16:27:21:2721] [34minfo[39m: [34m⚙️  Server is running on port: 8082[39m
+[01 Jun, 2025 - 16:32:57:3257] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 17:17:11:1711] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 17:17:21:1721] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 17:17:21:1721] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 17:17:21:1721] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 17:17:28:1728] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 17:17:28:1728] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 17:21:24:2124] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[01 Jun, 2025 - 17:21:24:2124] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8082[39m
+[01 Jun, 2025 - 17:21:24:2124] [34minfo[39m: [34m⚙️  Server is running on port: 8082[39m

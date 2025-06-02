@@ -1,0 +1,115 @@
+[07 Jan, 2025 - 01:07:55:755] [31merror[39m: [31mMongoDB connection error:  getaddrinfo ENOTFOUND mongodb[39m
+[07 Jan, 2025 - 01:22:13:2213] [31merror[39m: [31mMongoDB connection error:  getaddrinfo ENOTFOUND mongodb[39m
+[07 Jan, 2025 - 01:23:05:235] [31merror[39m: [31mMongoDB connection error:  getaddrinfo ENOTFOUND mongodb[39m
+[07 Jan, 2025 - 01:24:14:2414] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[07 Jan, 2025 - 01:24:57:2457] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[07 Jan, 2025 - 01:25:19:2519] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[07 Jan, 2025 - 01:25:36:2536] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[07 Jan, 2025 - 01:25:36:2536] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8082[39m
+[07 Jan, 2025 - 01:25:36:2536] [34minfo[39m: [34m⚙️  Server is running on port: 8082[39m
+[07 Jan, 2025 - 01:26:45:2645] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[07 Jan, 2025 - 01:26:45:2645] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8082[39m
+[07 Jan, 2025 - 01:26:45:2645] [34minfo[39m: [34m⚙️  Server is running on port: 8082[39m
+[07 Jan, 2025 - 01:27:03:273] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[07 Jan, 2025 - 01:27:33:2733] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[07 Jan, 2025 - 01:27:33:2733] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8082[39m
+[07 Jan, 2025 - 01:27:33:2733] [34minfo[39m: [34m⚙️  Server is running on port: 8082[39m
+[07 Jan, 2025 - 01:29:48:2948] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[07 Jan, 2025 - 01:32:21:3221] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[07 Jan, 2025 - 01:32:21:3221] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8082[39m
+[07 Jan, 2025 - 01:32:21:3221] [34minfo[39m: [34m⚙️  Server is running on port: 8082[39m
+[07 Jan, 2025 - 01:34:16:3416] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[07 Jan, 2025 - 01:34:16:3416] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8082[39m
+[07 Jan, 2025 - 01:34:16:3416] [34minfo[39m: [34m⚙️  Server is running on port: 8082[39m
+[07 Jan, 2025 - 01:34:31:3431] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[07 Jan, 2025 - 01:34:31:3431] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8082[39m
+[07 Jan, 2025 - 01:34:31:3431] [34minfo[39m: [34m⚙️  Server is running on port: 8082[39m
+[07 Jan, 2025 - 01:35:12:3512] [31merror[39m: [31mEmail service failed silently. Make sure you have provided your MAILTRAP credentials in the .env file[39m
+[07 Jan, 2025 - 01:35:12:3512] [31merror[39m: [31mError:  getaddrinfo ENOTFOUND __mailtrap_smtp_host__[39m
+[07 Jan, 2025 - 01:35:12:3512] [35mhttp[39m: [35m::1 POST /api/v1/users/register 201 - 1315.850 ms[39m
+[07 Jan, 2025 - 01:35:25:3525] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 - 111.026 ms[39m
+[07 Jan, 2025 - 01:35:25:3525] [35mhttp[39m: [35m::1 GET /api/v1/chat-app/chats 200 - 33.383 ms[39m
+[07 Jan, 2025 - 01:35:25:3525] [35mhttp[39m: [35m::1 GET /api/v1/chat-app/chats 304 - 8.359 ms[39m
+[07 Jan, 2025 - 01:35:44:3544] [35mhttp[39m: [35m::1 GET /api/v1/chat-app/chats/users 200 - 32.624 ms[39m
+[07 Jan, 2025 - 01:35:59:3559] [35mhttp[39m: [35m::1 GET /api/v1/chat-app/chats 304 - 8.375 ms[39m
+[07 Jan, 2025 - 01:35:59:3559] [35mhttp[39m: [35m::1 GET /api/v1/chat-app/chats 304 - 6.360 ms[39m
+[07 Jan, 2025 - 01:36:04:364] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 200 - 35.674 ms[39m
+[07 Jan, 2025 - 01:36:30:3630] [31merror[39m: [31mEmail service failed silently. Make sure you have provided your MAILTRAP credentials in the .env file[39m
+[07 Jan, 2025 - 01:36:30:3630] [31merror[39m: [31mError:  getaddrinfo ENOTFOUND __mailtrap_smtp_host__[39m
+[07 Jan, 2025 - 01:36:30:3630] [35mhttp[39m: [35m::1 POST /api/v1/users/register 201 - 1206.641 ms[39m
+[07 Jan, 2025 - 01:36:42:3642] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 - 94.642 ms[39m
+[07 Jan, 2025 - 01:36:42:3642] [35mhttp[39m: [35m::1 GET /api/v1/chat-app/chats 304 - 31.527 ms[39m
+[07 Jan, 2025 - 01:36:42:3642] [35mhttp[39m: [35m::1 GET /api/v1/chat-app/chats 304 - 8.658 ms[39m
+[07 Jan, 2025 - 01:36:53:3653] [35mhttp[39m: [35m::1 GET /api/v1/chat-app/chats/users 200 - 6.726 ms[39m
+[07 Jan, 2025 - 01:37:00:370] [35mhttp[39m: [35m::1 POST /api/v1/chat-app/chats/c/677c3776dfd644bda929f880 201 - 55.907 ms[39m
+[07 Jan, 2025 - 01:37:00:370] [35mhttp[39m: [35m::1 GET /api/v1/chat-app/chats 200 - 7.513 ms[39m
+[07 Jan, 2025 - 01:37:03:373] [35mhttp[39m: [35m::1 GET /api/v1/chat-app/messages/677c37e4dfd644bda929f8eb 200 - 9.491 ms[39m
+[07 Jan, 2025 - 01:37:30:3730] [35mhttp[39m: [35m::1 POST /api/v1/chat-app/messages/677c37e4dfd644bda929f8eb 201 - 17.691 ms[39m
+[07 Jan, 2025 - 01:37:44:3744] [35mhttp[39m: [35m::1 GET /api/v1/chat-app/messages/677c37e4dfd644bda929f8eb 200 - 10.903 ms[39m
+[07 Jan, 2025 - 01:37:58:3758] [35mhttp[39m: [35m::1 POST /api/v1/chat-app/messages/677c37e4dfd644bda929f8eb 201 - 28.713 ms[39m
+[07 Jan, 2025 - 01:38:02:382] [35mhttp[39m: [35m::1 POST /api/v1/chat-app/messages/677c37e4dfd644bda929f8eb 201 - 11.374 ms[39m
+[07 Jan, 2025 - 01:38:12:3812] [35mhttp[39m: [35m::1 POST /api/v1/chat-app/messages/677c37e4dfd644bda929f8eb 201 - 14.668 ms[39m
+[07 Jan, 2025 - 01:38:17:3817] [35mhttp[39m: [35m::1 POST /api/v1/chat-app/messages/677c37e4dfd644bda929f8eb 201 - 10.389 ms[39m
+[07 Jan, 2025 - 01:38:26:3826] [35mhttp[39m: [35m::1 GET /api/v1/chat-app/chats 200 - 16.799 ms[39m
+[07 Jan, 2025 - 01:38:26:3826] [35mhttp[39m: [35m::1 GET /api/v1/chat-app/messages/677c37e4dfd644bda929f8eb 200 - 27.050 ms[39m
+[07 Jan, 2025 - 01:38:26:3826] [35mhttp[39m: [35m::1 GET /api/v1/chat-app/chats 304 - 12.953 ms[39m
+[07 Jan, 2025 - 01:38:26:3826] [35mhttp[39m: [35m::1 GET /api/v1/chat-app/messages/677c37e4dfd644bda929f8eb 304 - 15.222 ms[39m
+[07 Jan, 2025 - 01:42:27:4227] [35mhttp[39m: [35m::1 GET / 200 - 2.538 ms[39m
+[07 Jan, 2025 - 01:42:28:4228] [35mhttp[39m: [35m::1 GET /swagger-ui-init.js 200 - 28.624 ms[39m
+[07 Jan, 2025 - 01:42:28:4228] [35mhttp[39m: [35m::1 GET /swagger-ui.css 200 - 48.433 ms[39m
+[07 Jan, 2025 - 01:42:28:4228] [35mhttp[39m: [35m::1 GET /swagger-ui-standalone-preset.js 200 - 43.584 ms[39m
+[07 Jan, 2025 - 01:42:28:4228] [35mhttp[39m: [35m::1 GET /swagger-ui-bundle.js 200 - 42.091 ms[39m
+[07 Jan, 2025 - 01:42:29:4229] [35mhttp[39m: [35m::1 GET /favicon-32x32.png 200 - 9.180 ms[39m
+[01 Jun, 2025 - 16:26:24:2624] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[01 Jun, 2025 - 16:26:24:2624] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8082[39m
+[01 Jun, 2025 - 16:26:24:2624] [34minfo[39m: [34m⚙️  Server is running on port: 8082[39m
+[01 Jun, 2025 - 16:26:27:2627] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 16:26:27:2627] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 16:26:27:2627] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 16:26:27:2627] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 16:27:21:2721] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[01 Jun, 2025 - 16:27:21:2721] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8082[39m
+[01 Jun, 2025 - 16:27:21:2721] [34minfo[39m: [34m⚙️  Server is running on port: 8082[39m
+[01 Jun, 2025 - 16:32:57:3257] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 17:17:11:1711] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 17:17:21:1721] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 17:17:21:1721] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 17:17:21:1721] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 17:17:28:1728] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 17:17:28:1728] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 17:21:24:2124] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[01 Jun, 2025 - 17:21:24:2124] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8082[39m
+[01 Jun, 2025 - 17:21:24:2124] [34minfo[39m: [34m⚙️  Server is running on port: 8082[39m
+[01 Jun, 2025 - 17:21:28:2128] [35mhttp[39m: [35m::1 GET / 200 - 10.523 ms[39m
+[01 Jun, 2025 - 17:21:28:2128] [35mhttp[39m: [35m::1 GET /swagger-ui.css 200 - 1.989 ms[39m
+[01 Jun, 2025 - 17:21:28:2128] [35mhttp[39m: [35m::1 GET /swagger-ui-bundle.js 200 - 0.445 ms[39m
+[01 Jun, 2025 - 17:21:28:2128] [35mhttp[39m: [35m::1 GET /swagger-ui-standalone-preset.js 200 - 0.483 ms[39m
+[01 Jun, 2025 - 17:21:28:2128] [35mhttp[39m: [35m::1 GET /swagger-ui-init.js 200 - 10.665 ms[39m

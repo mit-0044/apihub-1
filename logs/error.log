@@ -1,0 +1,18 @@
+[07 Jan, 2025 - 01:07:55:755] [31merror[39m: [31mMongoDB connection error:  getaddrinfo ENOTFOUND mongodb[39m
+[07 Jan, 2025 - 01:22:13:2213] [31merror[39m: [31mMongoDB connection error:  getaddrinfo ENOTFOUND mongodb[39m
+[07 Jan, 2025 - 01:23:05:235] [31merror[39m: [31mMongoDB connection error:  getaddrinfo ENOTFOUND mongodb[39m
+[07 Jan, 2025 - 01:35:12:3512] [31merror[39m: [31mEmail service failed silently. Make sure you have provided your MAILTRAP credentials in the .env file[39m
+[07 Jan, 2025 - 01:35:12:3512] [31merror[39m: [31mError:  getaddrinfo ENOTFOUND __mailtrap_smtp_host__[39m
+[07 Jan, 2025 - 01:36:30:3630] [31merror[39m: [31mEmail service failed silently. Make sure you have provided your MAILTRAP credentials in the .env file[39m
+[07 Jan, 2025 - 01:36:30:3630] [31merror[39m: [31mError:  getaddrinfo ENOTFOUND __mailtrap_smtp_host__[39m
+[01 Jun, 2025 - 16:26:27:2627] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 16:26:27:2627] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 16:26:27:2627] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 16:26:27:2627] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 16:32:57:3257] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 17:17:11:1711] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 17:17:21:1721] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 17:17:21:1721] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 17:17:21:1721] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 17:17:28:1728] [31merror[39m: [31msecret option required for sessions[39m
+[01 Jun, 2025 - 17:17:28:1728] [31merror[39m: [31msecret option required for sessions[39m
